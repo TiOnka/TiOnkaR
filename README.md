@@ -16,7 +16,7 @@ My journey in computer technology is attributed to my current passion for cyber 
 
 | Skill                                            | Associated Project                           |   
 |                                                  |_________________________________________________|
-|SIEM Implementation and Log Analysis              | <a href="https://https://github.com/TiOnka/Detection-Lab">Detection Lab</a>  |
+|SIEM Implementation and Log Analysis              | <a href="https://github.com/TiOnka/Detection-Lab">Detection Lab</a>  |
 |Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 Security Automation with Shuffle SOAR  |SOC Automation Lab|
 Incident Response Planning and Execution| SOC Automation Lab|
@@ -52,6 +52,6 @@ Scripting and Automation for Threat Mitigation |SOC Lab|
 
 ### Projects
 [Create bullet points of projects you have created/completed]
-- <a href="https://https://github.com/TiOnka/Detection-Lab">Detection Lab</a>  
+- <a href="https://github.com/TiOnka/Detection-Lab">Detection Lab</a> 
 - SOC Automation Project
 - Test Project
